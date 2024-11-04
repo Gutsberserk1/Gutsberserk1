@@ -1,4 +1,4 @@
-## Bem vindo aomeu perfil! 
+## Bem vindo ao meu perfil! 
 _Sou Wesley C. Andrade_
 
 - _Estou estudando na [Alura](https://www.alura.com.br/)_
